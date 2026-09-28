@@ -6,6 +6,8 @@ Team A | System Architect: Suriyakumar P
 Milestones Completed: Milestone 1, Milestone 2, Milestone 3, and Milestone 4 — Full End-to-End System
 
 🌐 End-to-End Architecture
+
+
                                               ┌──────────────────────────────────────────────────────────┐
                                               │                    MILESTONE 4                           │
                                               │     Interactive AI-Assisted React 19 SOC Dashboard       │
@@ -30,6 +32,7 @@ Milestones Completed: Milestone 1, Milestone 2, Milestone 3, and Milestone 4 —
                                               │ - Automated Mitigation & Containment Playbooks           │
                                               │ - SOC Analyst Feedback & Incident State Workflow         │
                                               └──────────────────────────────────────────────────────────┘
+
 
 🚀 Quickstart: Running the Complete Platform
 Option 1: 1-Click Unified Launcher — Recommended
@@ -65,7 +68,7 @@ Username / Email: admin or admin@threatdetect.local
 Password: admin123
 
 📂 Repository Layout
-Infosys/
+Infosys-project/
 ├── Data_Visulization_Backend_Team-a/       # Flask Backend & ML Engine
 │   ├── backend/
 │   │   ├── app.py                         # Primary Flask Server & Static Serving
