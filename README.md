@@ -7,7 +7,7 @@ Milestones Completed: Milestone 1, Milestone 2, Milestone 3, and Milestone 4 —
 
 🌐 End-to-End Architecture
 
-
+```text
                                               ┌──────────────────────────────────────────────────────────┐
                                               │                    MILESTONE 4                           │
                                               │     Interactive AI-Assisted React 19 SOC Dashboard       │
@@ -32,6 +32,7 @@ Milestones Completed: Milestone 1, Milestone 2, Milestone 3, and Milestone 4 —
                                               │ - Automated Mitigation & Containment Playbooks           │
                                               │ - SOC Analyst Feedback & Incident State Workflow         │
                                               └──────────────────────────────────────────────────────────┘
+```
 
 
 🚀 Quickstart: Running the Complete Platform
@@ -68,6 +69,9 @@ Username / Email: admin or admin@threatdetect.local
 Password: admin123
 
 📂 Repository Layout
+## 📁 Repository Structure
+
+```text
 Infosys-project/
 ├── Data_Visulization_Backend_Team-a/       # Flask Backend & ML Engine
 │   ├── backend/
@@ -87,7 +91,7 @@ Infosys-project/
 │   ├── start_project.py                   # 1-Click Project Launcher
 │   └── test_all_endpoints.py              # Automated Integration Test Suite
 │
-├── Data_Visulization_Frontend_Team-a/      # React 19 Frontend SOC Dashboard
+├── Data_Visulization_Frontend_Team-a/     # React 19 Frontend SOC Dashboard
 │   ├── frontend/
 │   │   ├── components/                    # ThreatTable, AttackChainGraph, XAI Cards
 │   │   ├── pages/                         # DashboardPage, LandingPage, Auth Pages
@@ -99,6 +103,7 @@ Infosys-project/
 │   └── vite.config.ts                     # Vite Dev Server & Reverse Proxy
 │
 └── README.md                              # Master Documentation
+```
 
 📑 Milestone Coverage & Verification
 Milestone	Component	Status	Test Verification
