@@ -104,8 +104,7 @@ Infosys-project/
 │
 └── README.md                              # Master Documentation
 ```
-
-📑 Milestone Coverage & Verification
+```text
 Milestone	Component	Status	Test Verification
 Milestone 1	Data Normalization, MITRE, CVE & IOC Enrichment	✅ Complete	GET /api/events, GET /api/stats
 Milestone 2	Isolation Forest ML Anomaly Detection (IF_v2)	✅ Complete	GET /api/predictions, POST /api/predict, GET /api/anomalies
@@ -113,5 +112,5 @@ Milestone 3	5-Factor Risk Engine & Attack Chain Correlation	✅ Complete	GET /ap
 Milestone 4	Full Platform Integration & Interactive SOC UI	✅ Complete	test_all_endpoints.py — 22/22 Endpoints Passed
 👥 Author
 Suriyakumar P
-
+```
 Data Visualization & Cybersecurity Engineering Team
